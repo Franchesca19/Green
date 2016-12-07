@@ -1,0 +1,1 @@
+function setup() {  createCanvas (600, 400);}function draw() {fill (0, 150, 0); // color the shapes instroke (2, 0, 2) //outline of the shapesrect (10, 10, 30, 70);  // name of the shapesline (50, 70, 0,0); ellipse(width/2, height/2, 80,80); //circle. //look at the webside for tutorial on how to make shapes p5js.org}
